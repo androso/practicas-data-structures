@@ -1,0 +1,2 @@
+practica1: https://github.com/androso/practica1-ds
+practica 2,3,4,5,6: https://github.com/androso/practicas-data-structures
